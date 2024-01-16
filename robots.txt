@@ -1,4 +1,4 @@
 User-agent: Googlebot
-Disallow: /nogooglebot/
 Allow: /
+Disallow: /nogooglebot/
 Sitemap: https://flow1772.github.io/Projet-9-Nina-Carducci/robots.txt
