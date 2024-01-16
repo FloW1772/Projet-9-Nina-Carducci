@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: Googlebot
+Disallow: /nogooglebot/
 Allow: /
-Disallow: /wp-admin/
-Disallow: /wp-content/uploads/
+Sitemap: https://flow1772.github.io/Projet-9-Nina-Carducci/robots.txt
